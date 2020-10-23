@@ -1,0 +1,1 @@
+print(__file__.split('/')[-1])
